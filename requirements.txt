@@ -1,6 +1,5 @@
-gradio_imageslider
-gradio==4.29.0
-matplotlib
-opencv-python
-torch
-torchvision
+gradio_imageslider==0.0.18
+gradio==4.14.0
+torch==2.2.0
+torchvision==0.17.0
+opencv-python==4.8.0.74
